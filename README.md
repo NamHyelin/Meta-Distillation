@@ -1,4 +1,5 @@
 # Meta-Distillation
+Sub-work with Active Split Learning (https://github.com/NamHyelin/ActiveSplitLearning)
 Split one model and distillation from the end to the hidden layer,
 and refer the former layers as student, and the later layers as teacher.
 
